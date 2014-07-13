@@ -33,7 +33,7 @@ use yii\widgets\InputWidget;
  * @since 0.1
  */
  
- class DateTime extends \yii\base\Widget
+ class DateTime extends InputWidget
  {
     /**
      * @var array the options for the DateTime JS plugin.
