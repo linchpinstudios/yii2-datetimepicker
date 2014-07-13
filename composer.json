@@ -1,7 +1,7 @@
 {
 	"name": "linchpinstudios/yii2-datetimepicker",
 	"description": "Jquery Date Time Plugin for the Yii2 framework",
-	"keywords": ["yii2", "Jquery", "Plugin", "Backstrech"],
+	"keywords": ["yii2", "Jquery", "Plugin", "DateTimePicker", "DateTime", "Widget"],
 	"type": "yii2-extension",
 	"license": "MIT",
 	"support": {

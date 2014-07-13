@@ -8,6 +8,9 @@
 namespace linchpinstudios\datetimepicker;
 
 use Yii;
+use yii\helpers\Html;
+use yii\helpers\Json;
+use yii\widgets\InputWidget;
 
 /**
  * Use this plugin to unobtrusively add a datetimepicker, datepicker or 
