@@ -73,7 +73,7 @@ use yii\widgets\InputWidget;
 
         $options = Json::encode($this->clientOptions);
 
-        $view->registerJs("jQuery($id).datetimepicker($options);");
+        $view->registerJs("jQuery('#$id').datetimepicker($options);");
     }
     
  }
